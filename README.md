@@ -4,6 +4,12 @@ Personal theme from material discord
 only change: 
 
 ```css
+* {
+	font-family: Whitney,Helvetica Neue,Helvetica, Arial ,sans-serif !important;
+}
+```
+
+```css
 .message-2qnXI6.groupStart-23k01U {
 	position: relative;
 	margin: 16px 26px 0 80px;
