@@ -29,7 +29,7 @@ class MaterialUpdater {
 	}
 
 	initialize() {
-        ZLibrary.PluginUpdater.checkForUpdate(this.getName(), this.getVersion(), "LINK_TO_RAW_CODE");
+        ZLibrary.PluginUpdater.checkForUpdate(this.getName(), this.getVersion(), "https://raw.githubusercontent.com/Poulpinounette/dm/master/materialupdater.plugin.js");
 	}
 
     unload() {
