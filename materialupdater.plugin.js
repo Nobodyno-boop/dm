@@ -3,7 +3,7 @@
 class MaterialUpdater {
     getName() {return "MaterialUpdater";} 
     getDescription() {return "Design Updater for the Goddess of love ";} 
-    getVersion() {return "1..";} 
+    getVersion() {return "1.1";} 
     getAuthor() {return "Poulpi";} 
 
     load() {
